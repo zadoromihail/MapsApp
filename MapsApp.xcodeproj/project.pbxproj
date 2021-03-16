@@ -17,6 +17,7 @@
 		87A402DF26012E2300AE8FC6 /* ImageCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A402DC26012E2300AE8FC6 /* ImageCreator.swift */; };
 		87A402E026012E2300AE8FC6 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A402DD26012E2300AE8FC6 /* Person.swift */; };
 		87A402E126012E2300AE8FC6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A402DE26012E2300AE8FC6 /* AppDelegate.swift */; };
+		87A402F0260132D500AE8FC6 /* ReadMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A402EF260132D500AE8FC6 /* ReadMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		87A402DC26012E2300AE8FC6 /* ImageCreator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageCreator.swift; sourceTree = "<group>"; };
 		87A402DD26012E2300AE8FC6 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		87A402DE26012E2300AE8FC6 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		87A402EF260132D500AE8FC6 /* ReadMe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadMe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				87A402CF26012E1B00AE8FC6 /* UI */,
 				87A402C026012CCC00AE8FC6 /* Assets.xcassets */,
 				87A402C226012CCC00AE8FC6 /* LaunchScreen.storyboard */,
+				87A402EF260132D500AE8FC6 /* ReadMe.swift */,
 				87A402C526012CCC00AE8FC6 /* Info.plist */,
 			);
 			path = MapsApp;
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87A402F0260132D500AE8FC6 /* ReadMe.swift in Sources */,
 				87A402DF26012E2300AE8FC6 /* ImageCreator.swift in Sources */,
 				87A402D526012E1B00AE8FC6 /* ViewController.swift in Sources */,
 				87A402D726012E1B00AE8FC6 /* CustomAnnotationView.swift in Sources */,
